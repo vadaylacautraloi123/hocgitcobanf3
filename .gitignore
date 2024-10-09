@@ -1,0 +1,5 @@
+.env
+abc/index.js
+**.md
+a/**/**.md
+abc
